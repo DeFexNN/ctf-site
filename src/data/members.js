@@ -6,12 +6,12 @@ export const members = [
     },
     {
         nick: "kusotare",
-        role: "======",
-        about: "======================",
+        role: "Osint / Reverse",
+        about: "Osinter whom cant find anything",
     },
     {
         nick: "Volic",
-        role: "crypto / forensics",
+        role: "Crypto / Forensics",
         about: "talantless burj khalifa",
     },
     {

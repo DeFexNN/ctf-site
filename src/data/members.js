@@ -12,16 +12,21 @@ export const members = [
     {
         nick: "Volic",
         role: "Crypto / Forensics",
-        about: "talantless burj khalifa",
+        about: "Talantless Burj Khalifa",
     },
     {
         nick: "HardDeat",
         role: "========",
         about: "==========",
     },
+        {
+        nick: "HardDeat",
+        role: "========",
+        about: "==========",
+    },
     {
         nick: "Martin",
-        role: "=======",
-        about: "=============",
+        role: "Logic / Pwn",
+        about: "Gavniuk expert z nozem from Ukraine",
     }
 ];

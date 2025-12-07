@@ -2,6 +2,19 @@ export const ctfs = [
 
     {
         name: "Cybexer Final Flame CTF 2025",
+        date: "5-7.12.2025",
+        teams: 542,
+        place: 16,
+        categories: "Malware, DFIR, Reverse, Cloud, OSINT, Mobile, Web3, PWN, AI, Web, Misc, Crypto, boot2root",
+        link: "https://ctf.perfectroot.wiki/",
+        details: {
+            description: "Established in 2022, p3rf3ctr00t swiftly rose as Kenya's premier cybersecurity team, specializing in Capture The Flag (CTF) competitions.",
+            tasks: ["70+", "freaking", "tasks"],
+            solvedBy: ["DeFexGG", "olivo", "lox_chort"]
+        }
+    },
+    {
+        name: "Cybexer Final Flame CTF 2025",
         date: "14.11.2025",
         teams: 30,
         place: 1,

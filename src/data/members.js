@@ -15,7 +15,7 @@ export const members = [
         about: "Talantless Burj Khalifa",
     },
     {
-        nick: "HardDeat",
+        nick: "Kostia",
         role: "========",
         about: "==========",
     },
@@ -26,7 +26,7 @@ export const members = [
     },
     {
         nick: "Martin",
-        role: "Logic / Pwn",
+        role: "Logic",
         about: "Gavniuk expert z nozem from Ukraine",
     }
 ];

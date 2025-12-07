@@ -15,14 +15,9 @@ export const members = [
         about: "Talantless Burj Khalifa",
     },
     {
-        nick: "Kostia",
-        role: "========",
-        about: "==========",
-    },
-        {
         nick: "HardDeat",
-        role: "========",
-        about: "==========",
+        role: "Web/Osint",
+        about: "Osinter, who can't even find his second sock",
     },
     {
         nick: "Martin",
